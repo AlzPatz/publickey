@@ -3,6 +3,7 @@
 alexjlpaterson@protonmail.com
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 xsFNBGDZiwYBEAC9ebKKdcoroNLsR85ayJqsglloT4xgvZ3osFMi2PRyeQ+k
 bBsQ8qLlXGq+Qa6yg0TDYhm82pmeCTish9ixphke0ausJQhRTyk/MialBW3P
 3Z62/JEScAqaQXzmPdy3YplEqiIVDca9wI6aCRAl0uMr79xsXnGBA6vNnpOw
@@ -55,4 +56,5 @@ pDEgKkqlJbo0vOdZh4R/DkgRj9YUBPUzCCD0Y8mjLkiG8bTDQyHw+l6hCDEu
 Kut2Y27IS19Cd9yoy+z7tIDUbEp9GFTbMHINwBWWqQacq9YPjMqCWnWdqMAs
 h+fsr5VjMISHQmhpTShQH2z6vxcgH4aBWUF8wl/s
 =ZsEy
+
 -----END PGP PUBLIC KEY BLOCK-----
